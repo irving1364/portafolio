@@ -97,375 +97,123 @@ const detailData = [
       },
     ]
   },
+
   {
-    id: 2,
-    thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Ave Simone",
+    id: 6,
+    thumbnail: "assets/img/portfolio/6.png",
+    title: "Dorisec",
     text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
+      "Sitio Web tipo Landing Page, creado totalmente a medida del Mockup Psd entregado por el cliente. En dos idiomas, Español e Ingles. ",
     ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail",
+    link: "https://dorisec.com",
+    client: "Dorisec",
+    date: "2023",
+    category: "Tienda Web",
     share: [
       {
         id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
         iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
+        link: "https://www.linkedin.com/in/andreacabrera27/?originalSubdomain=ec",
       },
+    ]
+  },
+
+  {
+    id: 7,
+    thumbnail: "assets/img/portfolio/7.png",
+    title: "Logihelpsolutions",
+    text: [
+      "Sitio Web, realizado con Angular en dos idiomas, Español e Ingles.",
     ],
-    bigImage: "assets/img/portfolio/1.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
+    link: "https://logihelpsolutions.com",
+    client: "logihelpsolutions",
+    date: "2022",
+    category: "Web",
+    share: [
+      {
+        id: 1,
+        iconName: "icon-instagram-1",
+        link: "https://www.instagram.com/logihelp_solutions/?hl=es-la",
+      },
+    ]
+  },
+
+  {
+    id: 8,
+    thumbnail: "assets/img/portfolio/8.png",
+    title: "Maquidebar",
+    text: [
+      "Sitio Web, realizado completamente Wordpress, con Elemtor tienda con Woocommerce, apartado de deseos.",
+    ],
+    link: "https://maquidebar.com",
+    client: "Maquidebar",
+    date: "2022",
+    category: "Tienda Web",
+    share: [
+      
+    ]
+  },
+
+  {
+    id: 9,
+    thumbnail: "assets/img/portfolio/10.png",
+    title: "integralseguros",
+    text: [
+      "Sitio Web, Desarrollado a la medida del cliente, Frontend con Angular.",
+    ],
+    link: "https://integralseguros.com.pa",
+    client: "integralseguros",
+    date: "2020",
+    category: "Web",
+    share: [
+      {
+        id: 1,
+        iconName: "icon-instagram-1",
+        link: "https://www.instagram.com/logihelp_solutions/?hl=es-la",
+      },
+    ]
+  },
+
+  {
+    id: 10,
+    thumbnail: "assets/img/portfolio/11.png",
+    title: "Okey - Plataforma Estudiantil",
+    text: [
+      "Sistema Web donde se crea el seguimiento, a maestros, materias, alumnos, clases, evaluacion, actividades, ingtegrado con whatsapp para notificaciones en tiempo real a alumnos, calendario de informacion, integracion con google meet para videoconferencias o clases online dentro de la app web.",
+    ],
+    link: "https://institutogosen.okey.com.pa",
+    client: "Instituto Gosen",
+    date: "2022 - 2023",
+    category: "Web App",
+    share: [
+      {
+        id: 1,
+        iconName: "icon-instagram-1",
+        link: "https://www.instagram.com/logihelp_solutions/?hl=es-la",
+      },
+    ]
+  },
+
+  
+
+  {
+    id: 11,
+    thumbnail: "assets/img/portfolio/12.png",
+    title: "App Movil Profit",
+    text: [
+      "App movil integrada al sistema contable profit, donde vendendor y cliente pueden ingresar y crear pedidos, ver el inventario, ver su estado de cuenta directamente desde su equipo telefonico.",
+    ],
+    link: "https://institutogosen.okey.com.pa",
+    client: "Privado",
+    date: "2022 - 2023",
+    category: "Web App",
+    share: [
+      
+    ]
   },
   
-  {
-    id: 2,
-    thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Ave Simone",
-    text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
-    ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail",
-    share: [
-      {
-        id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
-      },
-    ],
-    bigImage: "assets/img/portfolio/1.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },
   
-  {
-    id: 2,
-    thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Ave Simone",
-    text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
-    ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail",
-    share: [
-      {
-        id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
-      },
-    ],
-    bigImage: "assets/img/portfolio/1.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },
-  
-  {
-    id: 2,
-    thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Ave Simone",
-    text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
-    ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail",
-    share: [
-      {
-        id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
-      },
-    ],
-    bigImage: "assets/img/portfolio/1.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },
-  
-  {
-    id: 2,
-    thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Ave Simone",
-    text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
-    ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail",
-    share: [
-      {
-        id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
-      },
-    ],
-    bigImage: "assets/img/portfolio/1.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },
-  
-  {
-    id: 2,
-    thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Ave Simone",
-    text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
-    ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail",
-    share: [
-      {
-        id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
-      },
-    ],
-    bigImage: "assets/img/portfolio/1.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },
-  
-  {
-    id: 2,
-    thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Ave Simone",
-    text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
-    ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail",
-    share: [
-      {
-        id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
-      },
-    ],
-    bigImage: "assets/img/portfolio/1.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },
-  
-  {
-    id: 2,
-    thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Ave Simone",
-    text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
-    ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail",
-    share: [
-      {
-        id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
-      },
-    ],
-    bigImage: "assets/img/portfolio/1.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },
-  
-  {
-    id: 2,
-    thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Ave Simone",
-    text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
-    ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail",
-    share: [
-      {
-        id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
-      },
-    ],
-    bigImage: "assets/img/portfolio/1.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },
-  
-  {
-    id: 2,
-    thumbnail: "assets/img/portfolio/8.jpg",
-    title: "Ave Simone",
-    text: [
-      "We live in a world where we need to move quickly and iterate on our ideas as flexibly as possible. Building mockups strikes the ideal balance between true-life representation of the end product and ease of modification.",
-      "Mockups are useful both for the creative phase of the project - for instance when you're trying to figure out your user flows or the proper visual hierarchy - and the production phase when they will represent the target product. Making mockups a part of your creative and development process allows you to quickly and easily ideate.",
-    ],
-    client: "Alvaro Morata",
-    date: "October 22, 2022",
-    category: "Detail",
-    share: [
-      {
-        id: 1,
-        iconName: "icon-facebook-squared",
-        link: "https://www.facebook.com/",
-      },
-      {
-        id: 2,
-        iconName: "icon-twitter-squared",
-        link: "https://twitter.com/",
-      },
-      {
-        id: 3,
-        iconName: "icon-behance-squared",
-        link: "https://www.behance.net/",
-      },
-      {
-        id: 4,
-        iconName: "icon-linkedin-squared",
-        link: "https://www.linkedin.com/",
-      },
-    ],
-    bigImage: "assets/img/portfolio/1.jpg",
-    images: ["assets/img/portfolio/2.jpg", "assets/img/portfolio/3.jpg"],
-  },
+
 ];
 const Portfolio = () => {
   const isotope = useRef();
@@ -713,7 +461,7 @@ const Portfolio = () => {
                       className="popup_info"
                       href="#"
                       onClick={() => {
-                        setPortfolioDetailsModal(detailData[11]);
+                        setPortfolioDetailsModal(detailData[5]);
                         modalToggle(true);
                       }}
                     >
@@ -735,14 +483,14 @@ const Portfolio = () => {
                 <div className="inner w-full h-auto clear-both float-left overflow-hidden relative">
                   <div
                     className="entry tokyo_tm_portfolio_animation_wrap"
-                    data-title="Logihealth"
+                    data-title="Logihelp"
                     data-category="Web"
                   >
                     <a
                       className="popup_info"
                       href="#"
                       onClick={() => {
-                        setPortfolioDetailsModal(detailData[11]);
+                        setPortfolioDetailsModal(detailData[6]);
                         modalToggle(true);
                       }}
                     >
@@ -771,7 +519,7 @@ const Portfolio = () => {
                       className="popup_info"
                       href="#"
                       onClick={() => {
-                        setPortfolioDetailsModal(detailData[11]);
+                        setPortfolioDetailsModal(detailData[7]);
                         modalToggle(true);
                       }}
                     >
@@ -801,7 +549,7 @@ const Portfolio = () => {
                       className="popup_info"
                       href="#"
                       onClick={() => {
-                        setPortfolioDetailsModal(detailData[11]);
+                        setPortfolioDetailsModal(detailData[8]);
                         modalToggle(true);
                       }}
                     >
@@ -831,7 +579,7 @@ const Portfolio = () => {
                       className="popup_info"
                       href="#"
                       onClick={() => {
-                        setPortfolioDetailsModal(detailData[11]);
+                        setPortfolioDetailsModal(detailData[9]);
                         modalToggle(true);
                       }}
                     >
@@ -860,7 +608,7 @@ const Portfolio = () => {
                       className="popup_info"
                       href="#"
                       onClick={() => {
-                        setPortfolioDetailsModal(detailData[22]);
+                        setPortfolioDetailsModal(detailData[10]);
                         modalToggle(true);
                       }}
                     >
