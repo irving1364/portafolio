@@ -11,7 +11,7 @@ const Intro = () => {
       </div>
       <div className="about_text w-full h-auto clear-both float-left border-solid border-[#DFDFDF] border-b pb-[31px] mb-[30px]">
         <p className="mb-[11px]">
-          Hola, soy Irving Salcedo, entusiasta del Desarrollo Web y teniendo de experiencia multiples proyectos.
+          Hola, soy Irvyn Salcedo, entusiasta del Desarrollo Web y teniendo de experiencia multiples proyectos.
         </p>
         <p>
           Una de mis especialidades es tomar una idea desde cero y crear una plataforma completa. Voy más 
